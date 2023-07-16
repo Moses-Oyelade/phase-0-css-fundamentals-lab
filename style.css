@@ -3,3 +3,42 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+
+}
+
+ figure{
+  justify-content: center;
+  text-align: center;
+  padding-right: 50px;
+  padding-left: 50px;
+ }
+  
+ nav {
+text-align: center;  
+ }
+
+ nav a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color:burlywood;
+ }
+
+ #featured-property  p{
+  text-align: center;
+  justify-items: center;
+  padding-left:300px;
+  padding-right:300px;
+ }
+
+  #details div{
+  float: left;
+  background-color: darksalmon;
+  text-align: center;
+  width: 25%;
+  justify-content: center;
+ }
+
+
+ 
